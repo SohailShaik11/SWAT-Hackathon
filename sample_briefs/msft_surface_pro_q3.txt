@@ -1,0 +1,17 @@
+Campaign Name: Surface Pro 11 Back-to-Business Q3 Push
+
+Business Objective: Drive 15,000 Surface Pro 11 unit sales to enterprise accounts (500+ employees) in Q3 FY26, representing a 22% lift over Q2. Secondary objective: generate 3,000 qualified demo requests from net-new enterprise IT decision-makers who have not engaged with Microsoft Surface in the past 12 months.
+
+Target Audience: IT Directors, VPs of IT Infrastructure, and Chief Information Officers at companies with 500–5,000 employees in financial services, professional services, healthcare, and manufacturing verticals. These are organizations currently standardized on competitor devices (Dell Latitude, Lenovo ThinkPad) or running aging Surface Pro 7/8 fleets approaching end-of-life. Behavioral signal: active engagement with Microsoft 365 E3/E5 licensing in the past 6 months but no Surface hardware purchase in 18+ months.
+
+Key Message: Your workforce is hybrid. Your devices should be too. Surface Pro 11 with Copilot+ gives your teams AI-powered productivity in a device that replaces both their laptop and tablet — cutting your hardware fleet by 30% while accelerating every workflow from document drafting to data analysis.
+
+Channels: Email nurture sequence (existing Microsoft 365 customers), LinkedIn (sponsored content + InMail), paid search (Google Ads), Microsoft.com landing page, field sales outreach, partner channel co-marketing (CDW, Insight, SHI)
+
+Budget: $2.4M total. Email production and sends: $180K. LinkedIn: $620K. Paid search: $480K. Landing page development and optimization: $95K. Field sales enablement materials: $150K. Partner co-marketing fund: $400K. Creative production (video, display, copy): $275K. Contingency: $200K.
+
+Timeline: Campaign live by July 7, 2026. Creative brief to agencies by June 2. First draft assets due June 16. Internal QA review June 23–25. Partner co-marketing materials distributed by June 27. Email sequence begins July 7. LinkedIn and paid search go live July 7. Mid-campaign optimization checkpoint: July 28. Campaign ends August 29. Post-campaign analysis due September 12.
+
+Success Metrics: Surface Pro 11 enterprise unit sales attributed to campaign (target: 15,000 units). Qualified demo requests from net-new accounts (target: 3,000). Email nurture sequence: open rate >32%, CTR >4.8%. LinkedIn sponsored content: CTR >1.2%, cost per qualified lead <$85. Paid search: cost per demo request <$120. Partner-sourced pipeline contribution: $8M in influenced pipeline. Landing page conversion rate: >6.5%.
+
+Constraints / Brand Notes: All messaging must align with Microsoft's "AI for Everyone" brand narrative. Do not position Surface as a "cheaper alternative" to competitors — position on capability and total cost of ownership. Copilot+ features must be demonstrated with real workflow examples, not abstract AI claims. Do not reference Apple or iPad by name in any channel. Video assets must include closed captions and meet WCAG 2.1 AA accessibility standards. Partner co-marketing materials must use approved Microsoft Surface brand templates. All landing page forms must comply with GDPR and CCPA consent requirements. Field sales outreach scripts must not make ROI claims without linking to published Microsoft Surface TCO studies.

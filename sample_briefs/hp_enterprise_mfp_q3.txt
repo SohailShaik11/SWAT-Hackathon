@@ -1,0 +1,17 @@
+Campaign Name: HP LaserJet Enterprise MFP Refresh — Q3 Managed Print Push
+
+Business Objective: Accelerate the replacement cycle for aging HP LaserJet Enterprise MFP fleets by driving 4,500 net-new managed print service (MPS) contracts in Q3 FY26. Secondary: generate 1,200 qualified assessments (free print environment audit requests) from enterprise accounts currently running competitor MFP devices or HP devices older than 4 years.
+
+Target Audience: Procurement Directors, VP of Workplace Services, Facilities Managers, and IT Operations leads at companies with 1,000+ employees in financial services, legal, healthcare, and government verticals. Focus on organizations with 50+ networked printers showing high toner consumption and service ticket volume — signals of aging fleet inefficiency.
+
+Key Message: Your print fleet is your most overlooked operating cost. HP's new LaserJet Enterprise MFPs with Wolf Security cut your cost-per-page by 28%, eliminate firmware vulnerabilities that put your network at risk, and integrate with your existing Microsoft 365 workflows — so your teams print, scan, and share without switching apps.
+
+Channels: Email, LinkedIn, social, events, partner channel
+
+Budget: Not specified
+
+Timeline: Campaign should run in Q3. Assets needed "soon."
+
+Success Metrics: MPS contract signings (target: 4,500). Print assessment requests (target: 1,200). Reduce average sales cycle for MPS contracts from 47 days to 35 days.
+
+Constraints / Brand Notes: All security claims must reference HP Wolf Security by name and link to published CVE response data. Do not use the phrase "just a printer" — brand positioning is "intelligent workplace infrastructure." Healthcare messaging must reference HIPAA-compliant secure printing features. Government messaging must reference FedRAMP and NIST compliance. Partner co-marketing must use HP Amplify brand guidelines. No pricing in public-facing channels — drive to "request a quote" CTA. Testimonials must be from named, logo-approved customers only.

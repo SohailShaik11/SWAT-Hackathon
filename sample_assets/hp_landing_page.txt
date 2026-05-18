@@ -1,0 +1,35 @@
+LANDING PAGE COPY — HP LaserJet Enterprise MFP
+
+Hero Section:
+"Your print fleet is your most overlooked operating cost. Let's fix that."
+
+Subhead:
+HP LaserJet Enterprise MFPs with Wolf Security: 28% lower cost-per-page, self-healing firmware, and native Microsoft 365 integration.
+
+Section 1 — The Hidden Cost of Aging Print Infrastructure
+The average enterprise with 50+ networked printers spends 1-3% of annual revenue on print-related costs. Most of it is invisible: toner waste from inefficient cartridges, reactive service calls, firmware vulnerabilities that open your network to attack, and manual scan-to-email workflows that cost employees 15+ minutes per day.
+
+Section 2 — Why HP LaserJet Enterprise MFP?
+• Wolf Security: Self-healing firmware that detects and recovers from attacks in real-time — no IT intervention needed
+• 28% lower cost-per-page vs. previous generation through intelligent toner management
+• Native Microsoft 365 integration: One-touch scan directly to Teams, SharePoint, and OneDrive
+• HIPAA-compliant secure print release for healthcare environments
+• FedRAMP and NIST compliance for government agencies
+• Predictive maintenance alerts before failures happen
+
+Section 3 — Managed Print Services
+Stop managing printers. Start managing outcomes. HP's Managed Print Services include:
+• Free print environment audit (baseline your current costs)
+• Fleet right-sizing recommendations
+• Automated toner replenishment
+• 24/7 remote monitoring and proactive service dispatch
+• Quarterly business reviews with cost savings reporting
+
+Form Section:
+"See what your print fleet really costs"
+[Company Name] [Your Name] [Work Email] [Job Title] [Number of Networked Printers]
+[GET YOUR FREE PRINT ASSESSMENT]
+
+Secondary CTA: "Already know you need to refresh? [REQUEST A QUOTE]"
+
+Footer: Contact your HP Workplace Solutions representative or our channel partners.

@@ -1,0 +1,58 @@
+{
+  "campaign_name": "Surface Pro 11 Back-to-Business Q3 Push",
+  "prepared_by": "Campaign Operations Team",
+  "date": "2026-06-01",
+  "channels": [
+    {
+      "channel": "Email Nurture Sequence",
+      "audience_targeting": "Existing Microsoft 365 E3/E5 customers, 500+ employees",
+      "ad_format": "3-part email drip sequence (awareness → consideration → CTA)",
+      "copy_length": "Email 1: 150 words, Email 2: 200 words, Email 3: 120 words",
+      "cta": "Learn More",
+      "budget": "$180,000",
+      "owner": "Internal email marketing team",
+      "timeline": "July 7 — August 15 (3 emails, 2-week intervals)"
+    },
+    {
+      "channel": "LinkedIn Sponsored Content + InMail",
+      "audience_targeting": "Job titles: IT Manager, Systems Administrator. Company size: 50-200 employees. Industries: Technology, Retail.",
+      "ad_format": "Sponsored single image posts (3 variants), Sponsored InMail (1 template)",
+      "copy_length": "Sponsored posts: 90 words. InMail: 250 words.",
+      "cta": "Check it out",
+      "budget": "$620,000",
+      "owner": "Agency: Wunderman Thompson",
+      "timeline": "July 7 — August 29 (continuous, weekly optimization)"
+    },
+    {
+      "channel": "Paid Search (Google Ads)",
+      "audience_targeting": "Keywords: enterprise laptop replacement, business tablet, hybrid work device, Surface Pro enterprise",
+      "ad_format": "Responsive search ads (5 headlines, 3 descriptions), Performance Max campaign",
+      "copy_length": "Headlines: 30 chars each. Descriptions: 90 chars each.",
+      "cta": "Book a Demo",
+      "budget": "$480,000",
+      "owner": "Agency: Wunderman Thompson",
+      "timeline": "July 7 — August 29 (continuous, bid adjustments weekly)"
+    },
+    {
+      "channel": "Microsoft.com Landing Page",
+      "audience_targeting": "All campaign traffic",
+      "ad_format": "Dedicated landing page with hero video, feature grid, TCO calculator, demo request form",
+      "copy_length": "~600 words total page copy",
+      "cta": "Book a Demo",
+      "budget": "$95,000",
+      "owner": "Internal web team",
+      "timeline": "Live by July 7. A/B test hero variant starting July 21."
+    }
+  ],
+  "milestones": [
+    {"date": "2026-06-02", "milestone": "Creative brief to agencies"},
+    {"date": "2026-06-16", "milestone": "First draft assets due from all teams"},
+    {"date": "2026-06-23", "milestone": "Internal QA review begins"},
+    {"date": "2026-06-25", "milestone": "QA review complete — feedback to agencies"},
+    {"date": "2026-07-07", "milestone": "Campaign go-live: email, LinkedIn, paid search, landing page"},
+    {"date": "2026-07-28", "milestone": "Mid-campaign optimization checkpoint"},
+    {"date": "2026-08-29", "milestone": "Campaign ends"},
+    {"date": "2026-09-12", "milestone": "Post-campaign analysis delivered"}
+  ],
+  "notes": "Partner co-marketing channel (CDW, Insight, SHI) not included in this plan — awaiting partner team input. Field sales outreach scripts not yet drafted."
+}

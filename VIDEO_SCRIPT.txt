@@ -1,0 +1,209 @@
+# CampaignPulse — Video Demo Script (4-5 minutes)
+# Record your screen + read this voiceover
+
+================================================================================
+## SECTION 1: PROBLEM STATEMENT (45 seconds)
+================================================================================
+
+[SCREEN: Title slide or CampaignPulse homepage]
+
+VOICEOVER:
+"In enterprise B2B marketing, every campaign begins with a brief — a document 
+that defines who you're targeting, what channels to use, the budget, timeline, 
+and success metrics. But here's the gap nobody talks about: there is zero 
+quality control between writing the brief and spending the money.
+
+The result? Ambiguous briefs cause 8 to 15 hours of rework per campaign. Channel 
+assets — emails, ads, landing pages — drift from the brief because nobody 
+cross-checks them systematically. And misaligned assets underperform by 20 to 35 
+percent. The worst part? Nobody catches it until post-campaign analysis — when 
+the budget is already spent.
+
+This is the problem I chose to solve: the pre-launch intelligence gap. How do 
+you catch execution failures before they happen?"
+
+
+================================================================================
+## SECTION 2: WHY THIS PROBLEM? (30 seconds)
+================================================================================
+
+[SCREEN: Can show a quick slide with LatentView + C&D clients context]
+
+VOICEOVER:
+"I chose this problem because it directly connects to LatentView's 
+Communications and Devices practice. Our clients — Microsoft, HP — run 50-plus 
+campaigns every quarter. We already measure post-campaign performance. But by 
+then, the damage is done. CampaignPulse moves the intelligence upstream — from 
+post-mortem to pre-launch. Same clients, earlier in the lifecycle, higher-value 
+engagement."
+
+
+================================================================================
+## SECTION 3: EXISTING INDUSTRY FRAMEWORKS (40 seconds)
+================================================================================
+
+[SCREEN: Quick comparison slide or just narrate over the app]
+
+VOICEOVER:
+"Let me contextualize this against existing frameworks. 
+
+Today, campaign quality is managed through manual processes: kick-off meetings, 
+creative brief templates like the RACE framework — Reach, Act, Convert, Engage 
+— or the PESO model for channel planning — Paid, Earned, Shared, Owned.
+
+For measurement, teams use Marketing Mix Modeling, attribution models, and 
+brand lift studies. But all of these are either pre-launch manual checklists 
+with no scoring rigor, or post-launch measurement that's too late to fix.
+
+What's missing is an automated, AI-powered quality gate that sits between brief 
+writing and execution. That's where CampaignPulse fits — it's a pre-launch 
+scoring and auditing system that replaces subjective reviews with quantified, 
+dimension-level assessments."
+
+
+================================================================================
+## SECTION 4: BUSINESS VALUE (30 seconds)
+================================================================================
+
+[SCREEN: Can show ROI numbers or just narrate]
+
+VOICEOVER:
+"The business impact is direct:
+
+First — reduce rework. Catching brief gaps before kickoff saves 8 to 15 hours 
+per campaign. At scale across 50 campaigns per quarter, that's 400 to 750 hours 
+saved annually.
+
+Second — improve asset performance. Alignment auditing before launch means fewer 
+misaligned ads running on paid media. Even a 10 percent lift in alignment 
+translates to measurable CPL and conversion improvements.
+
+Third — for LatentView, this is a new service offering: 'Pre-Launch Campaign 
+Intelligence as a Service' — productizable, scalable, and complementary to our 
+existing post-campaign analytics."
+
+
+================================================================================
+## SECTION 5: TECHNOLOGY STACK (30 seconds)
+================================================================================
+
+[SCREEN: Show architecture diagram or code structure]
+
+VOICEOVER:
+"Let me walk through the tech stack.
+
+The frontend is built with Streamlit for rapid prototyping with a professional UI.
+
+The intelligence layer uses Azure OpenAI — specifically GPT for structured 
+reasoning and text-embedding-3-small for semantic similarity computation. 
+
+The architecture is multi-agent: three specialized agents — Brief Scorer, Plan 
+Generator, and Alignment Auditor — each with their own prompt engineering and 
+output schemas. The agents use structured JSON output for reliability.
+
+The semantic audit in Phase 3 combines LLM-based reasoning with cosine 
+similarity on embeddings — giving both qualitative and quantitative alignment 
+scores. This dual approach reduces hallucination and makes the system 
+trustworthy."
+
+
+================================================================================
+## SECTION 6: LIVE DEMO — PHASE 1 (60 seconds)
+================================================================================
+
+[SCREEN: Select "HP Enterprise MFP" brief from sidebar. Show the brief text.]
+
+VOICEOVER:
+"Let me demonstrate with a real HP Enterprise campaign brief. This brief wants 
+to drive 4,500 managed print contracts in Q3. Let's score it."
+
+[SCREEN: Click "Score Brief". Show the results loading, then the score: ~38/100]
+
+"The Brief Scorer gives it 38 out of 100 — 'Not Executable.' Let's see why."
+
+[SCREEN: Scroll through dimension breakdown]
+
+"Audience Precision scores 72 — it's specific about titles and industries. But 
+Channel Specificity scores 25 — it just says 'email, LinkedIn, social, events' 
+with no format or platform details. Budget Allocation scores zero — no budget is 
+mentioned at all. Timeline scores 18 — it just says 'Q3' with no milestones."
+
+[SCREEN: Show the clarifying questions]
+
+"The system doesn't just flag problems — it asks specific, answerable questions. 
+'What is the total campaign allocation and how should it split across channels?' 
+This is what a senior campaign manager would ask in a kick-off meeting — except 
+it happens instantly."
+
+
+================================================================================
+## SECTION 7: LIVE DEMO — PHASE 2 (45 seconds)
+================================================================================
+
+[SCREEN: Navigate to Phase 2. Show brief loaded + answer gap questions]
+
+VOICEOVER:
+"Now I'll answer the gap questions — budget is $1.2 million, social means 
+LinkedIn and Twitter specifically."
+
+[SCREEN: Click "Generate Execution Plan". Show results.]
+
+"The Plan Generator produces a structured, channel-level execution plan. For 
+each channel: audience targeting, ad format, copy guidance, CTA, budget 
+allocation, and owner. A week-by-week timeline. Tracking setup with UTM 
+parameters."
+
+[SCREEN: Show one channel expanded, then the timeline]
+
+"This plan is operational — an agency could execute from it without a kickoff 
+meeting. It's downloadable as JSON for integration into project management tools."
+
+
+================================================================================
+## SECTION 8: LIVE DEMO — PHASE 3 (60 seconds)
+================================================================================
+
+[SCREEN: Navigate to Phase 3. Load Microsoft Surface brief + sample assets]
+
+VOICEOVER:
+"Phase 3 is the alignment audit. I have a Microsoft Surface campaign brief and 
+four channel assets — email, LinkedIn ad, sales outreach, and landing page. Some 
+have deliberate misalignments."
+
+[SCREEN: Click "Run Alignment Audit". Show results.]
+
+"The Auditor combines LLM reasoning with embedding-based semantic similarity."
+
+[SCREEN: Show critical issues]
+
+"Look what it caught:
+
+One — the email references iPad by name. The brief says 'do not reference Apple 
+or iPad.' Brand violation.
+
+Two — the LinkedIn ad targets 'startups and freelancers.' The brief targets IT 
+Directors at 500-plus employee companies. Complete audience mismatch.
+
+Three — the email CTA says 'Learn More.' The brief says 'Book a Demo.' CTA drift."
+
+[SCREEN: Show passing assets]
+
+"But the sales outreach and landing page pass clean. The system distinguishes 
+genuine errors from intentional channel adaptations. It doesn't false-flag — 
+that's what makes it trustworthy for real adoption."
+
+
+================================================================================
+## SECTION 9: CLOSING (20 seconds)
+================================================================================
+
+[SCREEN: Show final summary or app homepage]
+
+VOICEOVER:
+"CampaignPulse fills the pre-launch intelligence gap. It turns brief review 
+from gut-feel coordination into a scored, audited, quantified process — before 
+you spend a dollar.
+
+Score the brief. Generate the plan. Audit before launch. CampaignPulse."
+
+[END]

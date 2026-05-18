@@ -1,0 +1,26 @@
+SURFACE PRO 11 — LANDING PAGE COPY
+
+Hero Section:
+"Surface Pro 11 with Copilot+. The 2-in-1 that replaces everything."
+
+Subhead:
+One device for your entire hybrid workforce. Laptop performance. Tablet flexibility. AI intelligence built in.
+
+Section 1 — Why Surface Pro 11?
+Your teams are hybrid. Their devices should be too. Surface Pro 11 gives your workforce AI-powered productivity in a device that eliminates the laptop-plus-tablet compromise — reducing your hardware fleet by 30% while accelerating every workflow.
+
+Section 2 — Key Features
+• Copilot+ built in: Draft documents, summarize meetings, analyze data — all with AI that understands your workflow context
+• All-day battery: 16+ hours of real-world usage means your team works from anywhere without hunting for outlets
+• Enterprise security: Microsoft Pluton chip, Windows Hello facial recognition, and zero-trust architecture
+• Microsoft 365 integration: Seamless with Teams, Outlook, Excel, and Power BI
+
+Section 3 — Total Cost of Ownership
+Organizations deploying Surface Pro 11 at scale see 23% lower TCO over 3 years compared to equivalent laptop + tablet deployments. Read the full TCO study →
+
+Form Section:
+"See Surface Pro 11 in action"
+[Company Name] [Your Name] [Work Email] [Job Title] [Number of Devices to Deploy]
+[BOOK A DEMO]
+
+Footer: Contact your Microsoft Surface account team or our deployment partners: CDW | Insight | SHI

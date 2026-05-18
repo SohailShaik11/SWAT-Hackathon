@@ -1,0 +1,13 @@
+CampaignPulse: AI Pre-Launch Campaign Intelligence
+
+Enterprise B2B technology companies run 50+ marketing campaigns per quarter, each beginning with a campaign brief that defines audience, channels, budget, timeline, and success metrics. However, no systematic quality gate exists between brief creation and campaign execution. Industry research shows that ambiguous briefs cause 8-15 hours of rework per campaign, misaligned channel assets underperform by 20-35%, and execution failures are only detected during post-campaign analysis — after the budget is spent.
+
+CampaignPulse addresses this gap with a three-phase AI-powered pre-launch intelligence system:
+
+Phase 1 — Brief Readiness Scoring: A specialized agent evaluates campaign briefs across six weighted dimensions (Audience Precision, Channel Specificity, Message-Product Fit, Budget Allocation, Timeline Feasibility, and Measurement Hookability), producing a 0-100 composite score with dimension-level justifications and targeted clarifying questions to resolve gaps before execution begins.
+
+Phase 2 — Execution Plan Generation: Using the scored brief and gap resolutions as input, a second agent generates a structured, channel-level execution plan including platform-specific targeting parameters, copy guidance, weekly timelines, budget allocations, and tracking setup with UTM structures and KPIs.
+
+Phase 3 — Pre-Launch Alignment Audit: A third agent audits every channel asset (emails, ads, landing pages) against the original brief using a dual approach: LLM-based reasoning for qualitative misalignment detection and embedding-based cosine similarity for quantitative semantic scoring. This surfaces brand violations, audience mismatches, CTA drift, and messaging inconsistencies before launch.
+
+The system is built on Azure OpenAI (GPT for structured reasoning, text-embedding-3-small for semantic similarity), Streamlit for the interface, and a multi-agent architecture with JSON-structured outputs. CampaignPulse transforms pre-launch review from subjective gut-feel coordination into a scored, audited, data-informed process — catching execution failures before they cost budget.

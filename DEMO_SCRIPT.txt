@@ -1,0 +1,148 @@
+# CampaignPulse — Demo Script (3 minutes)
+# Just the live demo. Record screen + narrate.
+
+================================================================================
+## INTRO (15 seconds)
+================================================================================
+
+[SCREEN: CampaignPulse app open — show the sidebar with 3 phases listed]
+
+"This is CampaignPulse — an AI pre-launch campaign intelligence tool with three 
+phases: Brief Scoring, Plan Generation, and Alignment Audit. Let me walk through 
+a live demo."
+
+
+================================================================================
+## PHASE 1: BRIEF SCORING (70 seconds)
+================================================================================
+
+[SCREEN: Click "HP Enterprise MFP (Q3)" in the sidebar under Sample Briefs]
+
+"I'm loading an HP Enterprise MFP campaign brief — this targets 4,500 managed 
+print service contracts in Q3. 286 words."
+
+[SCREEN: Click "Score Brief" — wait for results]
+
+"Scoring it now."
+
+[SCREEN: Results appear — show the top metrics row]
+
+"Overall score: 61 out of 100. Readiness tier: Needs Refinement. 4 gaps found, 
+and it estimates 14 hours of rework if we proceed without fixing them. Analysis 
+took about 16 seconds."
+
+[SCREEN: Scroll to Dimension Breakdown]
+
+"Let's look at the six dimensions:
+
+Audience Precision — 84. Strong. It defines buyer titles, company size, priority 
+verticals, fleet size signals. Good for targeting.
+
+Channel Specificity — 48. Channels are named but too broad. No platforms, no ad 
+formats, no placements, no ownership by channel.
+
+Message-Product Fit — 90. Excellent. Tight connection to product differentiators 
+— lower cost-per-page, HP Wolf Security, Microsoft 365 integration.
+
+Budget Allocation — zero. No budget mentioned anywhere. This is a critical 
+execution blocker.
+
+Timeline Feasibility — 35. It just says 'Q3.' No launch date, no asset 
+deadlines, no QA windows.
+
+Measurement Hookability — 72. Has outcome KPIs and targets, but attribution 
+rules and channel-level tracking aren't defined."
+
+[SCREEN: Show Top Issues section]
+
+"The top issues are clear: no budget, channels too generic, timeline too vague."
+
+[SCREEN: Show Clarifying Questions at the bottom]
+
+"And here's what makes this useful — it generates specific questions to resolve 
+each gap. 'What is the total campaign budget and how should it split across 
+channels?' 'What are the exact launch dates and QA windows?' These are the 
+questions a senior campaign manager would ask in a kickoff meeting — generated 
+instantly, before any meeting happens."
+
+
+================================================================================
+## PHASE 2: PLAN GENERATION (45 seconds)
+================================================================================
+
+[SCREEN: Navigate to Phase 2 — show "Brief loaded" indicator]
+
+"Moving to Phase 2. The brief carries over automatically. I'll provide context 
+for the gaps — budget is 1.2 million, social means LinkedIn Sponsored Content 
+and Twitter Ads, launch date is July 7th."
+
+[SCREEN: Type answers in the additional instructions box, click "Generate 
+Execution Plan"]
+
+"Generating the plan."
+
+[SCREEN: Show Channels tab]
+
+"It produces a full channel-by-channel execution plan. Each channel has: 
+platform details, audience targeting, ad format, budget allocation, CTA, copy 
+guidance, and an owner."
+
+[SCREEN: Click Timeline tab]
+
+"Week-by-week timeline with milestones and QA windows."
+
+[SCREEN: Click Tracking tab]
+
+"Tracking setup with UTM structure, KPIs per channel, and reporting cadence. 
+This is operational — an agency can execute from this without a kickoff meeting."
+
+
+================================================================================
+## PHASE 3: ALIGNMENT AUDIT (60 seconds)
+================================================================================
+
+[SCREEN: Navigate to Phase 3. Check "Load sample assets" → select "Microsoft 
+Surface Pro 11". Load the Surface brief from sidebar.]
+
+"Phase 3 — alignment audit. I'm loading a Microsoft Surface Pro brief and four 
+sample assets: email draft, LinkedIn ad, sales outreach, and landing page. Some 
+have deliberate misalignments."
+
+[SCREEN: Click "Run Alignment Audit"]
+
+"Running the audit."
+
+[SCREEN: Show Semantic Scores tab]
+
+"First — embedding-based semantic similarity. Each asset gets a percentage score 
+for how closely it aligns with the brief at the language level."
+
+[SCREEN: Click Issues tab — show critical findings]
+
+"Now the issues:
+
+Critical — the email mentions iPad by name. The brief explicitly says 'do not 
+reference Apple or iPad.' Brand violation.
+
+Critical — the LinkedIn ad targets startups and freelancers. The brief targets 
+IT Directors at 500-plus employee enterprises. Audience mismatch.
+
+Warning — the email CTA says 'Learn More.' The brief objective is 'Book a 
+Demo.' CTA drift."
+
+[SCREEN: Show Channel Scores tab — show passing assets]
+
+"But sales outreach and landing page pass clean. The system doesn't false-flag 
+— it distinguishes real errors from intentional channel adaptations."
+
+
+================================================================================
+## CLOSE (10 seconds)
+================================================================================
+
+[SCREEN: Show the app homepage]
+
+"That's CampaignPulse. Score the brief, generate the plan, audit before launch 
+— before you spend a dollar."
+
+[END]

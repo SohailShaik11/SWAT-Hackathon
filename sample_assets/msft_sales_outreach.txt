@@ -1,0 +1,26 @@
+Subject: Surface Pro 11 — Enterprise Demo Request Follow-up
+
+Hi {{FirstName}},
+
+Thanks for your interest in Surface Pro 11 for {{CompanyName}}.
+
+I'm reaching out because organizations like yours — running 500+ endpoints across hybrid teams — are seeing significant operational savings by consolidating their device fleet with Surface Pro 11.
+
+Here's what we're hearing from IT leaders in {{Industry}}:
+
+• 30% reduction in device fleet complexity by replacing separate laptop + tablet deployments
+• Copilot+ integration that accelerates document drafting, meeting summarization, and data analysis — with real examples from published Microsoft case studies
+• Total cost of ownership advantage over 3 years versus comparable Dell Latitude and Lenovo ThinkPad deployments (see attached TCO study)
+
+I'd love to schedule a 30-minute demo tailored to your environment. We can walk through:
+1. How Surface Pro 11 integrates with your existing Microsoft 365 E3/E5 deployment
+2. Copilot+ workflow demonstrations specific to {{Industry}} use cases
+3. A fleet transition roadmap with our deployment partners (CDW, Insight, SHI)
+
+Would next Tuesday or Thursday work for a brief call?
+
+Best regards,
+{{SalesRepName}}
+Microsoft Surface Enterprise Sales
+
+Book a demo: [BOOK A DEMO →]
